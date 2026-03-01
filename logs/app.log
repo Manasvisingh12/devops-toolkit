@@ -1,0 +1,23 @@
+2026-02-23 16:50:06 [INFO] Application Started
+2026-02-23 16:50:10 [INFO] User selected: Monitor System
+2026-02-23 16:50:15 [INFO] User selected: Check Services
+2026-02-23 16:51:05 [INFO] User selected: Monitor System
+2026-02-23 16:51:18 [INFO] Application Exited
+2026-02-23 17:19:20 [INFO] Application Started
+2026-02-23 17:22:52 [INFO] Application Started
+2026-02-23 17:23:00 [WARNING] docker is down. Attempting restart...
+2026-02-23 17:23:00 [ERROR] Failed to restart docker
+2026-02-23 17:23:49 [INFO] Application Started
+2026-02-23 17:23:58 [ERROR] systemctl not available on this system
+2026-03-01 23:37:38 [INFO] Application Started
+2026-03-01 23:37:40 [INFO] User selected: Backup Directory
+2026-03-01 23:38:48 [Info] backup created successfully: backups/2026-03-01_23_37_backup_20260301233751.tar.gz
+2026-03-01 23:38:48 [INFO] old backups older than 7 days are cleared
+2026-03-01 23:39:36 [INFO] Application Started
+2026-03-01 23:39:40 [INFO] User selected: Backup Directory
+2026-03-02 00:01:21 [INFO] Application Started
+2026-03-02 00:01:25 [INFO] User selected: Cleanup
+2026-03-02 00:01:25 [INFO] Starting cleanup process 
+2026-03-02 00:01:25 [INFO] Old log files older than 30 deleted
+2026-03-02 00:01:25 [INFO] OLD backups files older than 30 days are deleted
+2026-03-02 00:01:25 [INFO] Cleanup process completed

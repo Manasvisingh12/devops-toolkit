@@ -1,0 +1,19 @@
+# DevOps Toolkit
+
+A production-safe Bash automation toolkit.
+
+## Features
+
+- Backup automation
+- Log rotation
+- Signal handling
+- Security hardening
+- Cron-ready
+- Email/Webhook alerts
+
+## Usage
+
+```bash
+sudo ./main.sh
+
+
